@@ -1,5 +1,5 @@
-# Proyecto-Creacion-de-Wireframes-y-pruebas
-Consolidar todas las etapas del proyecto en un solo archivo de Figma, que muestre de forma clara el recorrido de diseño: desde los wireframes iniciales hasta el prototipo interactivo final
+#Simplificando flujos de diseño UX para eficiencia operativa.
+Los procesos de diseño presentaban flujos poco estructurados y falta de claridad en algunas etapas del trabajo. Esto generaba duplicación de esfuerzos, retrasos en la toma de decisiones y dificultades para mantener consistencia en las soluciones de diseño.
 
 [Uploading Diagrama.de.flujo (1).pdf…]()
 
