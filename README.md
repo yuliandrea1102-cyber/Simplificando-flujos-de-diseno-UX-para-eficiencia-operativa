@@ -1,9 +1,10 @@
 #Simplificando flujos de diseño UX para eficiencia operativa.
 Los procesos de diseño presentaban flujos poco estructurados y falta de claridad en algunas etapas del trabajo. Esto generaba duplicación de esfuerzos, retrasos en la toma de decisiones y dificultades para mantener consistencia en las soluciones de diseño.
 
+Presentación Figma:  https://www.figma.com/deck/Gke2AFiQd4on5gVWngaRHk
+
 https://www.figma.com/design/gcyDRC4lAx101ZFBypweGT/Untitled?node-id=165-352&t=JFKnVAofHGexyXd5-1
 
-[Uploading Diagrama.de.flujo (1).pdf…]()
 
 <img width="354" height="764" alt="Screenshot_1" src="https://github.com/user-attachments/assets/4d4aa465-d31f-47e6-925e-af2bbe168d22" />
 <img width="356" height="767" alt="Screenshot_2" src="https://github.com/user-attachments/assets/fdc31654-f07f-4bf4-be55-f0ba1fe60b7a" />
